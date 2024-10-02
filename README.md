@@ -17,9 +17,9 @@ Experience in web dev, building APIs,
 
 ## ✔️ Projects I've Completed
 
-* Developed a fairly large [JS web game](https://github.com/GoodBadChad/good-bad-chad-br) from scratch with @tclaar and @calebkrauter and @b1gd3vd0g.
+* Developed a fairly large [JS web game](https://github.com/GoodBadChad/good-bad-chad-br) from scratch with [Trae Claar](https://github.com/tclaar), [Kaleb Krauter](https://github.com/calebkrauter), and [Devin Peevy](https://github.com/b1gd3vd0g).
 
-* Built an [Express.js + PostgreSQL API](https://github.com/NathanHinthorne/TCSS-460-Book-API) and a [React frontend](https://github.com/NathanHinthorne/Book-Frontend) for a book library with @jennifer-huynh, @jennatimm, and @Viratsmann.
+* Built an [Express.js + PostgreSQL API](https://github.com/NathanHinthorne/TCSS-460-Book-API) and a [React frontend](https://github.com/NathanHinthorne/Book-Frontend) for a book library with [Jennifer Huynh](https://github.com/jennifer-huynh), [Jenna Timm](https://github.com/jennatimm), and [Virats Mann](https://github.com/Viratsmann).
 
 * Wrote a [custom implementation](https://github.com/NathanHinthorne/Wave-Function-Collapse) of the Wave Function Collapse algorithm and showcased it in with a vue web app.
 
