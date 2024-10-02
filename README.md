@@ -7,7 +7,7 @@ Senior Computer Science student at the University of Washington.
 
 ## 🥇 Main Goals
 
-Currently working on a bird identification Android app called "Birding Pal", along with a game to go with it.
+Currently working on an AI enhanced bird identification app for Android called "Birding Pal", along with a game to go with it.
 
 
 ## 📚 Things I've Learned
@@ -21,3 +21,5 @@ Also made an [Express.js + PostgreSQL API](https://github.com/NathanHinthorne/TC
 
 
 ## 🔌 Connect with me
+**LinkedIn**: https://sites.google.com/view/nathan-hinthorne
+**Email**: nathanrh856@gmail.com
