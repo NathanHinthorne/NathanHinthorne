@@ -19,9 +19,8 @@ I like to compose EDM and orchestral music in my freetime. You can check out my 
 * **C#**: Unity Game Engine
 * **Java**: JUnit, Swing, JavaFX
 * **SQL**: PostgreSQL, SQLite
+* **Other Languages**: C, R
 * **Technologies**: Firebase, Cloud Computing, VSCode, IntelliJ
-
-* Extra: C, R, 
 
 
 
