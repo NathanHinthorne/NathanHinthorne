@@ -14,7 +14,17 @@ I like to compose EDM and orchestral music in my freetime. You can check out my 
 
 ## 📚 Things I've Learned
 
-Experience in web dev, building APIs, 
+* **JavaScript**: React, Node, Express, Vue, Vite, Ionic Capacitor
+* **Python**: SciKitLearn, Pandas, MatPlotLib, Jupyter Notebooks/Google Collabs, NumPy, Tensorflow, PyTorch
+* **C#**: Unity Game Engine
+* **Java**: JUnit
+* **SQL**: PostgreSQL, SQLite
+* **C**: 
+* **Technologies**: Firebase, Cloud Computing, VSCode, IntelliJ
+
+* Programming Languages: Java, C#, C, JavaScript, HTML/CSS, Python, R
+
+
 
 
 ## ✔️ Projects I've Completed
