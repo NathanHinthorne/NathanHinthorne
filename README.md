@@ -23,7 +23,7 @@ Experience in web dev, building APIs,
 
 * Built an [Express.js + PostgreSQL API](https://github.com/NathanHinthorne/TCSS-460-Book-API) and a [React frontend](https://github.com/NathanHinthorne/Book-Frontend) for a book library with [Jennifer Huynh](https://github.com/jennifer-huynh), [Jenna Timm](https://github.com/jennatimm), and [Virats Mann](https://github.com/Viratsmann).
 
-* Wrote a [custom implementation](https://github.com/NathanHinthorne/Wave-Function-Collapse) of the Wave Function Collapse algorithm and showcased it with a vue web app.
+* Wrote a [custom implementation](https://github.com/NathanHinthorne/Wave-Function-Collapse) of the Wave Function Collapse algorithm (used for terrain generation) and showcased it with a vue web app.
 
 
 ## 🔌 Connect with me
