@@ -18,7 +18,7 @@ Experience in web dev, building APIs,
 
 Developed a fairly large [JS web game](https://github.com/GoodBadChad/good-bad-chad-br) from scratch with @tclaar and @calebkrauter and @b1gd3vd0g.
 
-Also made an [Express.js + PostgreSQL API](https://github.com/NathanHinthorne/TCSS-460-Book-API) and a [React frontend](https://github.com/NathanHinthorne/Book-Frontend) for a book library with @jennifer-huynh, @jennatimm, and @Viratsmann.
+Also made an [Express.js + PostgreSQL API](https://github.com/NathanHinthorne/TCSS-460-Book-API) and a [React frontend](https://github.com/NathanHinthorne/Book-Frontend) (custom made for another group's book API) for a book library with @jennifer-huynh, @jennatimm, and @Viratsmann.
 
 
 ## 🔌 Connect with me
