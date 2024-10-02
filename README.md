@@ -9,7 +9,7 @@ I like to compose EDM and orchestral music in my freetime. You can check out my 
 
 ## 🥇 Main Goals
 
- * Finish an AI enhanced bird identification app for Android called "Birding Pal", along with a game to go with it.
+ * Finish an AI enhanced bird identification app for Android called (Birding Pal)[https://github.com/NathanHinthorne/bird-identifier-app], along with a game to go with it.
 
 
 ## 📚 Things I've Learned
