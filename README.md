@@ -2,6 +2,8 @@
 
 Senior Computer Science student at the University of Washington.
 
+I like to compose EDM and orchestral music in my freetime. You can check out my [YouTube channel](https://www.youtube.com/@NathansCorner814) to hear some of the songs I've made.
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NathanHinthorne)
 
 
