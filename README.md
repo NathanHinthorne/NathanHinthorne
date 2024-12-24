@@ -33,6 +33,7 @@ I like to compose EDM and orchestral music in my freetime. You can check out my 
 
 * Wrote a [custom implementation](https://github.com/NathanHinthorne/Wave-Function-Collapse) of the Wave Function Collapse algorithm (used for terrain generation) and showcased it with a vue web app.
 
+* Developed a fun [browser extension](https://github.com/NathanHinthorne/Goose-Browser-Extension) featuring a goose browser buddy. 
 
 ## 🔌 Connect with me
 
