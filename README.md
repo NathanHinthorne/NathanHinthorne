@@ -27,7 +27,7 @@ Recent graduate from University of Washington with a B.S. in Computer Science an
 ## ⭐ Projects & Achievements
 
 ###  **AT&T Technology Certificate:** 
-  ![AT&T Certificate](https://drive.google.com/file/d/1T28pxfRowX9g4YvGkHPTgDm7j2LvcZPj/view?usp=sharing)
+  ![at-t-2024-technology-academy](https://github.com/user-attachments/assets/4655a68a-793d-43e6-beca-c9da17a7be9d)
 - Developed proficiency in cloud computing platforms, including architecture design, deployment strategies, and security best practices.
 - Acquired in-depth knowledge of network protocols, topologies, and troubleshooting techniques.
 - Delved into machine learning algorithms, neural networks, and practical applications in data analysis and predictive modeling.
