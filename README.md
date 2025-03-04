@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About me:
 
-Senior Computer Science student at the University of Washington.
+Recent graduate from University of Washington with a B.S. in Computer Science and Systems.
 
 I like to compose EDM and orchestral music in my freetime. You can check out my [YouTube channel](https://www.youtube.com/@NathansCorner814) to listen to some of the songs I've made.
 
