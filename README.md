@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About me:
 
-Recent graduate from University of Washington with a B.S. in Computer Science and Systems.
+Recent graduate from University of Washington with a B.S. in Computer Science and Systems and a minor in mathematics.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NathanHinthorne)
 
@@ -19,6 +19,25 @@ Recent graduate from University of Washington with a B.S. in Computer Science an
 * **SQL**: PostgreSQL, SQLite
 * **Other Languages**: C, R
 * **Technologies**: Firebase, Cloud Computing, VSCode, IntelliJ
+
+## Experience
+
+
+
+## ⭐ Projects & Achievements
+
+###  **AT&T Technology Certificate:** 
+  ![AT&T Certificate](https://drive.google.com/file/d/1T28pxfRowX9g4YvGkHPTgDm7j2LvcZPj/view?usp=sharing)
+- Developed proficiency in cloud computing platforms, including architecture design, deployment strategies, and security best practices.
+- Acquired in-depth knowledge of network protocols, topologies, and troubleshooting techniques.
+- Delved into machine learning algorithms, neural networks, and practical applications in data analysis and predictive modeling.
+
+### [Vanilla JS Web Game](https://github.com/GoodBadChad/good-bad-chad-br)
+- **Agile in Action:** Engaged in daily scrum updates and weekly sprint meetings to drive iterative development on a fun, engaging platformer web game.
+- **Team Collaboration:** Coordinated with teammates on design decisions, debugging sessions, and sprint retrospectives, ensuring each release improved on the last.
+- **Repository Managagement:** Wrote thorough pull requests, responding to teammates' feedback. Left careful reviews of teammates' pull requests.
+
+### 
 
 
 ## ✔️ Projects I've Completed
