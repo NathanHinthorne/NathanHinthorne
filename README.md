@@ -27,15 +27,15 @@ Senior student at the University of Washington with a B.S. in Computer Science a
 ## ⭐ Projects & Achievements
 
 ###  **AT&T Technology Certificate:** 
-<img src="https://github.com/user-attachments/assets/4655a68a-793d-43e6-beca-c9da17a7be9d" alt="at-t-2024-technology-academy" width="200" style="float: right; margin-left: 20px;">
-- Developed proficiency in cloud computing platforms, including architecture design, deployment strategies, and security best practices.
-- Acquired in-depth knowledge of network protocols, topologies, and troubleshooting techniques.
-- Delved into machine learning algorithms, neural networks, and practical applications in data analysis and predictive modeling.
+<img src="https://github.com/user-attachments/assets/4655a68a-793d-43e6-beca-c9da17a7be9d" alt="at-t-2024-technology-academy" width="200">
+  - Developed proficiency in cloud computing platforms, including architecture design, deployment strategies, and security best practices.
+  - Acquired in-depth knowledge of network protocols, topologies, and troubleshooting techniques.
+  - Delved into machine learning algorithms, neural networks, and practical applications in data analysis and predictive modeling.
 
 ### [Vanilla JS Web Game](https://github.com/GoodBadChad/good-bad-chad-br)
-- **Agile in Action:** Engaged in daily scrum updates and weekly sprint meetings to drive iterative development on a fun, engaging platformer web game.
-- **Team Collaboration:** Coordinated with teammates on design decisions, debugging sessions, and sprint retrospectives, ensuring each release improved on the last.
-- **Repository Managagement:** Wrote thorough pull requests, responding to teammates' feedback. Left careful reviews of teammates' pull requests.
+  - **Agile in Action:** Engaged in daily scrum updates and weekly sprint meetings to drive iterative development on a fun, engaging platformer web game.
+  - **Team Collaboration:** Developed as a team with [Trae Claar](https://github.com/tclaar), [Kaleb Krauter](https://github.com/calebkrauter), and [Devin Peevy](https://github.com/b1gd3vd0g). Coordinated with teammates on design decisions, debugging sessions, and sprint retrospectives, ensuring each release improved on the last.
+  - **Repository Managagement:** Wrote thorough pull requests, responding to teammates' feedback and making requested changes. Left careful reviews of teammates' pull requests.
 
 ### 
 
