@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About me:
 
-Recent graduate from University of Washington with a B.S. in Computer Science and Systems and a minor in mathematics.
+Senior student at the University of Washington with a B.S. in Computer Science and Systems and a minor in mathematics.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NathanHinthorne)
 
