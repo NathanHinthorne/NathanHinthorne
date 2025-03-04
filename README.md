@@ -41,16 +41,23 @@ Senior student at the University of Washington with a B.S. in Computer Science a
 
 ### [Dungeon Adventure Game](https://github.com/NathanHinthorne/Fallen-Champions)
   - **Leadership:** Led a team of two in iteratively developing a dungeon adventure game according to the SDLC.
-  - **Requirements & Specifications:** Wrote a Software Requirements and Specifications (SRS) document to follow.
-  - **Design:** Constructed a UML diagram describing future classes and their relationships.
+  - **Requirements & Specifications:** Helped write a Software Requirements and Specifications (SRS) document to follow.
+  - **Design:** Helped construct a UML diagram describing future classes and their relationships.
   - **Implementation:** Followed SRS document and UML diagram to iteratively develop game according to agile methodologies.
 
+### Book Library [API](https://github.com/NathanHinthorne/TCSS-460-Book-API) and [Frontend](https://github.com/NathanHinthorne/Book-Frontend)
+  - Collaborated with a team of three ([Jennifer Huynh](https://github.com/jennifer-huynh), [Jenna Timm](https://github.com/jennatimm), and [Virats Mann](https://github.com/Viratsmann)) in iteratively developing a RESTful API and frontend according to the SDLC.
+  -	Used Docker for containerization and PostgreSQL for database management.
+  -	Wrote endpoints with middleware for input validation and error handling, testing each endpoint in Postman.
+  - Implemented efficient API integration with custom hooks, along with an engaging, flexible UI that was ranked #1 in class.
 
-* Built an [Express.js + PostgreSQL API](https://github.com/NathanHinthorne/TCSS-460-Book-API) and a [React frontend](https://github.com/NathanHinthorne/Book-Frontend) for a book library with [Jennifer Huynh](https://github.com/jennifer-huynh), [Jenna Timm](https://github.com/jennatimm), and [Virats Mann](https://github.com/Viratsmann).
+### [Wave Function Collapse Algorithm Visualizer](https://github.com/NathanHinthorne/Wave-Function-Collapse-p5js)
+  - Custom implemented the Wave Function Collapse Algorithm, which follows local constraints to collapse cells into tiles, borrowing concepts from Quantum Mechanics and Information Theory.
+  - Designed a web interface to visualize the algorithm in action and generate custom terrain.
 
-* Wrote a [custom implementation](https://github.com/NathanHinthorne/Wave-Function-Collapse) of the Wave Function Collapse algorithm (used for terrain generation) and showcased it with a vue web app.
-
-* Developed a fun [browser extension](https://github.com/NathanHinthorne/Goose-Browser-Extension) featuring a goose browser buddy. 
+### [Goose Browser Extension](https://chromewebstore.google.com/detail/eejfnccgoejgidifcgpphjjfodmiofkm?utm_source=item-share-cb)
+  - Developed a fun browser extension featuring a goose browser buddy.
+  - Gained 1,000+ users in the Chrome Web Store.
 
 ## 🔌 Connect with me
 
