@@ -2,8 +2,6 @@
 
 Recent graduate from University of Washington with a B.S. in Computer Science and Systems.
 
-I like to compose EDM and orchestral music in my freetime. You can check out my [YouTube channel](https://www.youtube.com/@NathansCorner814) to listen to some of the songs I've made.
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NathanHinthorne)
 
 
@@ -14,15 +12,13 @@ I like to compose EDM and orchestral music in my freetime. You can check out my 
 
 ## 📚 Things I've Learned
 
-* **JavaScript**: React, Node, Express, Vue, Vite, Ionic Capacitor
+* **JavaScript**: TypeScript, React, Node, Express, Vue, Vite, Ionic Capacitor
 * **Python**: SciKitLearn, Pandas, MatPlotLib, Jupyter Notebooks/Google Collabs, NumPy, Tensorflow, PyTorch
 * **C#**: Unity Game Engine
 * **Java**: JUnit, Swing, JavaFX
 * **SQL**: PostgreSQL, SQLite
 * **Other Languages**: C, R
 * **Technologies**: Firebase, Cloud Computing, VSCode, IntelliJ
-
-
 
 
 ## ✔️ Projects I've Completed
