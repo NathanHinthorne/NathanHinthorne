@@ -50,15 +50,14 @@ Senior student at the University of Washington with a B.S. in Computer Science a
 
 ### [Vanilla JS Web Game](https://github.com/GoodBadChad/good-bad-chad-br)
   - **Team Collaboration:** Developed as a team with [Trae Claar](https://github.com/tclaar), [Kaleb Krauter](https://github.com/calebkrauter), and [Devin Peevy](https://github.com/b1gd3vd0g). Coordinated with teammates on design decisions, debugging sessions, and sprint retrospectives, ensuring each release improved on the last.
-  - **Agile in Action:** Engaged in daily scrum updates and weekly sprint meetings to drive iterative development on a fun, engaging platformer web game.
+  - **Agile in Action:** Engaged in daily scrum updates and weekly sprint meetings to drive iterative development.
   - **Repository Managagement:** Wrote thorough pull requests, responding to teammates' feedback and making requested changes. Left careful reviews of teammates' pull requests.
   - **Creatativity:** Composed all music and created all artwork from scratch alongside my teammates.
 
 ### [Dungeon Adventure Game](https://github.com/NathanHinthorne/Fallen-Champions)
-  - **Leadership:** Led a team of two in iteratively developing a dungeon adventure game according to the SDLC.
-  - **Requirements & Specifications:** Helped write a Software Requirements and Specifications (SRS) document to follow.
-  - **Design:** Helped construct a UML diagram describing future classes and their relationships.
-  - **Implementation:** Followed SRS document and UML diagram to iteratively develop game according to agile methodologies.
+  - **Leadership:** Led a team of two in iteratively developing a dungeon adventure game according to the SDLC and agile methodologies.
+  - **Requirements & Specifications:** Co-authored a Software Requirements and Specifications (SRS) document for structured development.
+  - **Design:** Designed UML diagrams for clear architectural planning.
 
 ### Book Library [API](https://github.com/NathanHinthorne/TCSS-460-Book-API) and [Frontend](https://github.com/NathanHinthorne/Book-Frontend)
   - Collaborated with a team of three ([Jennifer Huynh](https://github.com/jennifer-huynh), [Jenna Timm](https://github.com/jennatimm), and [Virats Mann](https://github.com/Viratsmann)) in iteratively developing a RESTful API and frontend according to the SDLC.
