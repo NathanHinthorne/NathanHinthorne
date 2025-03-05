@@ -13,7 +13,8 @@ Senior student at the University of Washington with a B.S. in Computer Science a
 ## 📚 Things I've Learned
 
 * **JavaScript**: TypeScript, React, Node, Express, Vue, Vite, Ionic Capacitor
-* **Python**: SciKitLearn, Pandas, MatPlotLib, Jupyter Notebooks/Google Collabs, NumPy, Tensorflow, PyTorch
+* **Python**: SciKitLearn, Pandas, MatPlotLib, Jupyter Notebooks/Google
+Collabs, NumPy, Tensorflow, PyTorch
 * **C#**: Unity Game Engine
 * **Java**: JUnit, Swing, JavaFX
 * **SQL**: PostgreSQL, SQLite
@@ -50,12 +51,17 @@ Senior student at the University of Washington with a B.S. in Computer Science a
   - Delved into machine learning algorithms, neural networks, and practical applications in data analysis and predictive modeling.
 
 ### [Vanilla JS Web Game](https://github.com/GoodBadChad/good-bad-chad-br)
+<img src="https://github.com/user-attachments/assets/5fbd2770-f135-4141-8a99-fb0be39f7e52" alt="game image" width="300">
+
   - **Team Collaboration:** Developed as a team with [Trae Claar](https://github.com/tclaar), [Kaleb Krauter](https://github.com/calebkrauter), and [Devin Peevy](https://github.com/b1gd3vd0g). Coordinated with teammates on design decisions, debugging sessions, and sprint retrospectives, ensuring each release improved on the last.
   - **Agile in Action:** Engaged in daily scrum updates and weekly sprint meetings to drive iterative development.
   - **Repository Managagement:** Wrote thorough pull requests, responding to teammates' feedback and making requested changes. Left careful reviews of teammates' pull requests.
   - **Creatativity:** Composed all music and created all artwork from scratch alongside my teammates.
 
 ### [Dungeon Adventure Game](https://github.com/NathanHinthorne/Fallen-Champions)
+| Title Screen | Intro | Gameplay |
+|---------|---------|---------|
+| ![Image 1](https://github.com/user-attachments/assets/aac65a27-702e-45f3-9b40-74b1c6966536) | ![Image 2](https://github.com/user-attachments/assets/42381e2e-7132-461c-abd4-a871cb9a1479) | ![Image 3](https://github.com/user-attachments/assets/ade5c023-0455-445b-899a-9f8e7bffe51b) |
   - **Leadership:** Led a team of two in iteratively developing a dungeon adventure game according to the SDLC and agile methodologies.
   - **Requirements & Specifications:** Co-authored a Software Requirements and Specifications (SRS) document for structured development.
   - **Design:** Designed UML diagrams for clear architectural planning.
@@ -67,6 +73,8 @@ Senior student at the University of Washington with a B.S. in Computer Science a
   - Implemented efficient API integration with custom hooks, along with an engaging, flexible UI that was ranked #1 in class.
 
 ### [Wave Function Collapse Algorithm Visualizer](https://github.com/NathanHinthorne/Wave-Function-Collapse-p5js)
+<img src="https://github.com/user-attachments/assets/069eb347-c3c6-4c80-9a3e-38b3ddf1e5f8" alt="demo image" width="300">
+
   - Custom implemented the Wave Function Collapse Algorithm, which follows local constraints to collapse cells into tiles, borrowing concepts from Quantum Mechanics and Information Theory.
   - Designed a web interface to visualize the algorithm in action and generate custom terrain.
 
