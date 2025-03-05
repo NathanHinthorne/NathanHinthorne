@@ -20,6 +20,7 @@ Senior student at the University of Washington with a B.S. in Computer Science a
 * **Other Languages**: C, R
 * **Technologies**: Firebase, Cloud Computing, VSCode, IntelliJ, Postman
 
+
 ## 💼 Experience
 
 ### Research Assistant | SmartCity Project, University of Washington Tacoma
@@ -72,6 +73,7 @@ Senior student at the University of Washington with a B.S. in Computer Science a
 ### [Goose Browser Extension](https://chromewebstore.google.com/detail/eejfnccgoejgidifcgpphjjfodmiofkm?utm_source=item-share-cb)
   - Developed a fun browser extension featuring a goose browser buddy.
   - Gained **1,000+ users** in the Chrome Web Store.
+
 
 ## 🔌 Connect with me
 
