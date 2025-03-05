@@ -1,13 +1,13 @@
 ## 👨🏻‍💻 About me:
 
-Senior student at the University of Washington with a B.S. in Computer Science and Systems and a minor in mathematics.
+Senior student at the University of Washington with a B.S. in Computer Science and Systems and a minor in mathematics. My interests lie in AI/ML, full-stack development, and game development, and I'm always excited to collaborate on new ideas!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NathanHinthorne)
 
 
 ## 🥇 Main Goals
 
- * Finish an AI enhanced bird identification app for Android called [Birding Pal](https://github.com/NathanHinthorne/bird-identifier-app), along with a game to go with it.
+ * Complete [Birding Pal](https://github.com/NathanHinthorne/bird-identifier-app) – an AI-enhanced bird identification app for Android, designed to help bird enthusiasts identify and journal their species. The project will optionally sync users' bird data to an interactive game (still in progress) to make learning more engaging.
 
 
 ## 📚 Things I've Learned
@@ -18,10 +18,25 @@ Senior student at the University of Washington with a B.S. in Computer Science a
 * **Java**: JUnit, Swing, JavaFX
 * **SQL**: PostgreSQL, SQLite
 * **Other Languages**: C, R
-* **Technologies**: Firebase, Cloud Computing, VSCode, IntelliJ
+* **Technologies**: Firebase, Cloud Computing, VSCode, IntelliJ, Postman
 
-## Experience
+## 💼 Experience
 
+### Research Assistant | SmartCity Project, University of Washington Tacoma
+📅 Dec 2024 - Mar 2025
+
+- Conducted machine learning research under faculty supervision to optimize road crack detection and segmentation.
+- Implemented a deep learning pipeline combining Local Derivative Pattern and High-Frequency Component embeddings to enhance Segment Anything Model (SAM) for crack segmentation.
+- Fine-tuned models on large-scale urban imagery datasets, improving segmentation accuracy.
+- Delivered weekly PowerPoint presentations on research progress and model evaluations to keep the team updated.
+
+### Software Developer Intern | Dimension XR
+📅 June 2023 - Oct 2023
+🔗 (For further details, see [portfolio](https://sites.google.com/view/nathan-hinthorne))
+
+- Developed three exhibits for a virtual reality museum using the Unity Game Engine.
+- Wrote 20+ C# scripts to add interactivity, animations, and audio to enhance user engagement.
+- Gained expertise in coroutines, event-driven programming, and debugging large-scale systems.
 
 
 ## ⭐ Projects & Achievements
@@ -57,7 +72,7 @@ Senior student at the University of Washington with a B.S. in Computer Science a
 
 ### [Goose Browser Extension](https://chromewebstore.google.com/detail/eejfnccgoejgidifcgpphjjfodmiofkm?utm_source=item-share-cb)
   - Developed a fun browser extension featuring a goose browser buddy.
-  - Gained 1,000+ users in the Chrome Web Store.
+  - Gained **1,000+ users** in the Chrome Web Store.
 
 ## 🔌 Connect with me
 
