@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About me:
 
-Senior student at the University of Washington with a B.S. in Computer Science and Systems and a minor in mathematics. My interests lie in AI/ML, full-stack development, and game development, and I'm always excited to collaborate on new ideas!
+Senior student at the University of Washington with a B.S. in Computer Science and Systems and a minor in mathematics. My interests lie in AI/ML, full-stack development, and game development. I'm always excited to collaborate on new ideas!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NathanHinthorne)
 
