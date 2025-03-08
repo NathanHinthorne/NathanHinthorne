@@ -72,7 +72,7 @@ Collabs, NumPy, Tensorflow, PyTorch
   -	Wrote endpoints with middleware for input validation and error handling, testing each endpoint in Postman.
   - Implemented efficient API integration with custom hooks, along with an engaging, flexible UI that was ranked #1 in class.
 
-### [Wave Function Collapse Algorithm Visualizer](https://github.com/NathanHinthorne/Wave-Function-Collapse-p5js)
+### [Wave Function Collapse Algorithm Visualizer](https://nathanhinthorne.github.io/Wave-Function-Collapse-p5js/)
 <img src="https://github.com/user-attachments/assets/069eb347-c3c6-4c80-9a3e-38b3ddf1e5f8" alt="demo image" width="300">
 
   - Custom implemented the Wave Function Collapse Algorithm, which follows local constraints to collapse cells into tiles, borrowing concepts from Quantum Mechanics and Information Theory.
