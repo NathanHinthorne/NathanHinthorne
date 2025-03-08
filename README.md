@@ -79,8 +79,8 @@ Collabs, NumPy, Tensorflow, PyTorch
   - Designed a web interface to visualize the algorithm in action and generate custom terrain.
 
 ### [Goose Browser Extension](https://chromewebstore.google.com/detail/eejfnccgoejgidifcgpphjjfodmiofkm?utm_source=item-share-cb)
-  - Developed a fun browser extension featuring a goose browser buddy.
-  - Gained **1,000+ users** in the Chrome Web Store.
+  - Developed a browser extension featuring a pixelart goose that mildly annoys the user in funny ways.
+  - Gained **1,500+ users** in the Chrome Web Store.
 
 
 ## 🔌 Connect with me
