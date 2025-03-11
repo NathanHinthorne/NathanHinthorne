@@ -43,6 +43,10 @@ Collabs, NumPy, Tensorflow, PyTorch
 
 ## ⭐ Projects & Achievements
 
+### Academics
+  - **GPA: 3.92**
+  - Annual Dean's List
+
 ###  AT&T Technology Certificate:
 <img src="https://github.com/user-attachments/assets/4655a68a-793d-43e6-beca-c9da17a7be9d" alt="at-t-2024-technology-academy" width="200">
 
