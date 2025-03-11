@@ -45,7 +45,7 @@ Collabs, NumPy, Tensorflow, PyTorch
 
 ### Academics
   - **GPA: 3.92**
-  - Annual Dean's List
+  - **Annual Dean's List 2023-2025**
 
 ###  AT&T Technology Certificate:
 <img src="https://github.com/user-attachments/assets/4655a68a-793d-43e6-beca-c9da17a7be9d" alt="at-t-2024-technology-academy" width="200">
