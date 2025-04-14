@@ -24,6 +24,15 @@ Collabs, NumPy, Tensorflow, PyTorch
 
 ## 💼 Experience
 
+### Fullstack Software Developer Intern | Global Radio Outreach
+- **Fullstack Application Development**: Build and enhance applications for the Outreach CMS, Digital Library, and app using modern frontend tools (Next.js, React.js, TailwindCSS, Framer Motion, and custom React hooks) alongside backend frameworks (Node.js, Nest.js, and MongoDB).
+
+- **Collaborative Project Execution**: Work closely within a small, cross-functional team, participating in project planning, milestone tracking, and agile development cycles to ensure timely delivery.
+
+- **Infrastructure Management**: Configure and maintain technical infrastructure through containerization (Docker), orchestration (Kubernetes), and server management (NGINX), while integrating multilingual configurations and analytics tools.
+
+- **Quality Assurance & Problem Solving**: Engage in thorough testing and debugging to analyze and resolve technical challenges, enhancing performance, scalability, and reliability of applications.
+
 ### Research Assistant | SmartCity Project, University of Washington Tacoma
 📅 Dec 2024 - Mar 2025
 
