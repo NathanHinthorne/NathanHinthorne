@@ -43,7 +43,7 @@ Collabs, NumPy, Tensorflow, PyTorch
 
 ## ⭐ Projects & Achievements
 
-### Academics
+### 🎓 Academic Journey
   - **GPA: 3.92**
   - **2023-2025 Dean's List**
 
