@@ -25,7 +25,7 @@ Collabs, NumPy, Tensorflow, PyTorch
 ## 💼 Experience
 
 ### Fullstack Software Developer Intern | Global Radio Outreach
-📅 Mar 2024 - Preset
+📅 Mar 2025 - Preset
 - **Fullstack Application Development**: Build and enhance applications for the Outreach CMS, Digital Library, and app using modern frontend tools (Next.js, React.js, TailwindCSS, Framer Motion, and custom React hooks) alongside backend frameworks (Node.js, Nest.js, and MongoDB).
 
 - **Collaborative Project Execution**: Work closely within a small, cross-functional team, participating in project planning, milestone tracking, and agile development cycles to ensure timely delivery.
