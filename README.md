@@ -76,6 +76,7 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 
 ### [Goose Browser Extension](https://chromewebstore.google.com/detail/annoying-goose/eejfnccgoejgidifcgpphjjfodmiofkm)
 <img src="https://github.com/user-attachments/assets/95789a36-841c-4884-a79f-f50290ded72e" alt="demo image" width="300">
+
 **The Challenge**: Create something lighthearted yet technically sound
 
 **My Approach**:
