@@ -54,7 +54,7 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 ## 🔬 Projects & Thought Processes
 
 ### [Vanilla JS Web Game](https://github.com/GoodBadChad/good-bad-chad-br)
-<img src="https://github.com/user-attachments/assets/5fbd2770-f135-4141-8a99-fb0be39f7e52" alt="game image" width="300" style="border-radius: 10px;">
+<img src="https://github.com/user-attachments/assets/5fbd2770-f135-4141-8a99-fb0be39f7e52" alt="game image" width="300" style="border-radius: 30px;">
 
 **The Challenge**: Create an engaging browser game with limited frameworks
 
@@ -65,7 +65,7 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 - Found that cross-functional collaboration enhances both technical implementation and creative direction
 
 ### [Wave Function Collapse Algorithm Visualizer](https://nathanhinthorne.github.io/Wave-Function-Collapse-p5js/)
-<img src="https://github.com/user-attachments/assets/069eb347-c3c6-4c80-9a3e-38b3ddf1e5f8" alt="demo image" width="300" style="border-radius: 10px;">
+<img src="https://github.com/user-attachments/assets/069eb347-c3c6-4c80-9a3e-38b3ddf1e5f8" alt="demo image" width="300" style="border-radius: 30px;">
 
 **The Challenge**: Implement and visualize a complex algorithmic concept
 
@@ -75,7 +75,7 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 - Discovered that choosing which constraints should exist in a system is a foundational aspect of algorithm design.
 
 ### [Goose Browser Extension](https://chromewebstore.google.com/detail/annoying-goose/eejfnccgoejgidifcgpphjjfodmiofkm)
-<img src="https://github.com/user-attachments/assets/95789a36-841c-4884-a79f-f50290ded72e" alt="demo image" width="300" style="border-radius: 10px;">
+<img src="https://github.com/user-attachments/assets/95789a36-841c-4884-a79f-f50290ded72e" alt="demo image" width="300" style="border-radius: 30px;">
 
 **The Challenge**: Create something lighthearted yet technically sound
 
