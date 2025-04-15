@@ -54,7 +54,7 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 ## 🔬 Projects & Thought Processes
 
 ### [Vanilla JS Web Game](https://github.com/GoodBadChad/good-bad-chad-br)
-<img src="https://github.com/user-attachments/assets/5fbd2770-f135-4141-8a99-fb0be39f7e52" alt="game image" width="300">
+<img src="https://github.com/user-attachments/assets/5fbd2770-f135-4141-8a99-fb0be39f7e52" alt="game image" width="300" style="border-radius: 10px;">
 
 **The Challenge**: Create an engaging browser game with limited frameworks
 
