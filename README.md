@@ -1,104 +1,154 @@
-## 👨🏻‍💻 About me:
+# 👋 Hi, I'm Nathan Hinthorne
 
-Senior student at the University of Washington with a B.S. in Computer Science and Systems and a minor in mathematics. My interests lie in AI/ML, full-stack development, and game development. I'm always excited to collaborate on new ideas!
+## 💭 My Philosophy
+
+I believe that code is a form of creative expression—each project tells a story about problem-solving approaches and thought processes. My repositories aren't just collections of code; they're narratives of challenges encountered, solutions designed, and lessons learned along the way.
+
+> "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra, pioneer in computer science
+
+## 👨🏻‍💻 About me
+
+Senior student at the University of Washington with a B.S. in Computer Science and Systems and a minor in mathematics. I'm passionate about:
+
+- **AI/ML**: Exploring how machines can learn patterns and make predictions
+- **Full-Stack Development**: Building bridges between users and data through intuitive interfaces
+- **Game Development**: Creating interactive experiences that engage and challenge
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NathanHinthorne)
 
+## 🧠 How I Approach Problems
 
-## 🥇 Main Goals
+1. **Understand deeply before coding**: I believe in spending time understanding the problem space thoroughly before writing a single line of code.
+2. **Think in systems**: I approach projects by considering how components interact rather than just their individual functionality.
+3. **Iterate with purpose**: Each iteration should address specific insights from previous versions.
+4. **Balance innovation with pragmatism**: I explore creative solutions while keeping practical constraints in mind.
 
- * Complete [Birding Pal](https://github.com/NathanHinthorne/bird-identifier-app) – an AI-enhanced bird identification app for Android, designed to help bird enthusiasts identify and journal their species. The project will optionally sync users' bird data to an interactive game (still in progress) to make learning more engaging.
+## 🔍 Current Exploration
 
+My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identifier-app) – an AI-enhanced bird journaling app that represents my journey in:
+- Applying machine learning to real-world classification problems
+- Designing intuitive interfaces for complex functionality
+- Finding the balance between educational content and gamified learning
+- Creating systems that enhance appreciation for the natural world
 
-## 📚 Things I've Learned
+## 🛠️ Technical Toolkit & Thought Process
 
-* **JavaScript**: TypeScript, React, Node, Express, Vue, Vite, Ionic Capacitor
-* **Python**: SciKitLearn, Pandas, MatPlotLib, Jupyter Notebooks/Google
-Collabs, NumPy, Tensorflow, PyTorch
-* **C#**: Unity Game Engine
-* **Java**: JUnit, Swing, JavaFX
-* **SQL**: PostgreSQL, SQLite
-* **Other Languages**: C, R
-* **Technologies**: Firebase, Cloud Computing, VSCode, IntelliJ, Postman
+### Languages & Frameworks
+- **JavaScript Ecosystem**: TypeScript, React, Node, Express, Vue, Vite, Ionic Capacitor
+  - *I value JS for its versatility in creating responsive, interactive user experiences*
+- **Python**: SciKitLearn, Pandas, MatPlotLib, Jupyter Notebooks/Google Colab, NumPy, TensorFlow, PyTorch
+  - *My go-to for data exploration and machine learning implementation*
+- **C#**: Unity Game Engine
+  - *Perfect for translating creative vision into interactive experiences*
+- **Java**: JUnit, Swing, JavaFX
+  - *Appreciate its structured, type-safe approach to problem-solving*
+- **SQL**: PostgreSQL, SQLite
+  - *The foundation of thoughtful data modeling*
+- **Other Languages**: C, R, Erlang
+  - *Each offering unique approaches to programming style and problem-solving*
 
+### Technologies
+- Firebase, Cloud Computing, VSCode, IntelliJ, Postman, Google AI Studio
+  - *Tools that enhance development workflow and enable scalable solutions*
 
-## 💼 Experience
-
-### Fullstack Software Developer Intern | Global Radio Outreach
-📅 Mar 2025 - Preset
-- **Fullstack Application Development**: Build and enhance applications for the Outreach CMS, Digital Library, and app using modern frontend tools (Next.js, React.js, TailwindCSS, Framer Motion, and custom React hooks) alongside backend frameworks (Node.js, Nest.js, and MongoDB).
-
-- **Collaborative Project Execution**: Work closely within a small, cross-functional team, participating in project planning, milestone tracking, and agile development cycles to ensure timely delivery.
-
-- **Infrastructure Management**: Configure and maintain technical infrastructure through containerization (Docker), orchestration (Kubernetes), and server management (NGINX), while integrating multilingual configurations and analytics tools.
-
-- **Quality Assurance & Problem Solving**: Engage in thorough testing and debugging to analyze and resolve technical challenges, enhancing performance, scalability, and reliability of applications.
+## 💼 Professional Journey & Learning
 
 ### Research Assistant | SmartCity Project, University of Washington Tacoma
 📅 Dec 2024 - Mar 2025
 
-- Conducted machine learning research under faculty supervision to optimize road crack detection and segmentation.
-- Implemented a deep learning pipeline combining Local Derivative Pattern and High-Frequency Component embeddings to enhance Segment Anything Model (SAM) for crack segmentation.
-- Fine-tuned models on large-scale urban imagery datasets, improving segmentation accuracy.
-- Delivered weekly PowerPoint presentations on research progress and model evaluations to keep the team updated.
+My work here reflects my interest in applying AI to practical urban challenges:
+- Explored the balance between computational efficiency and accuracy in road crack detection models
+- Discovered how combining different feature extraction methods could enhance segmentation results
+- Learned that effective research communication is just as important as technical implementation
 
 ### Software Developer Intern | Dimension XR
 📅 June 2023 - Oct 2023
-🔗 (For further details, see [portfolio](https://sites.google.com/view/nathan-hinthorne))
+🔗 [Portfolio Details](https://sites.google.com/view/nathan-hinthorne)
 
-- Developed three exhibits for a virtual reality museum using the Unity Game Engine.
-- Wrote 20+ C# scripts to add interactivity, animations, and audio to enhance user engagement.
-- Gained expertise in coroutines, event-driven programming, and debugging large-scale systems.
+This experience taught me about:
+- Bridging educational content with cutting-edge technology through VR
+- Managing complexity in interactive systems
+- The importance of user-centered design in immersive experiences
 
-
-## ⭐ Projects & Achievements
-
-### 🎓 Academic Journey
-  - **GPA: 3.92**
-  - **2023-2025 Dean's List**
-
-###  AT&T Technology Certificate:
-<img src="https://github.com/user-attachments/assets/4655a68a-793d-43e6-beca-c9da17a7be9d" alt="at-t-2024-technology-academy" width="200">
-
-  - Developed proficiency in cloud computing platforms, including architecture design, deployment strategies, and security best practices.
-  - Acquired in-depth knowledge of network protocols, topologies, and troubleshooting techniques.
-  - Delved into machine learning algorithms, neural networks, and practical applications in data analysis and predictive modeling.
+## 🔬 Projects & Thought Processes
 
 ### [Vanilla JS Web Game](https://github.com/GoodBadChad/good-bad-chad-br)
 <img src="https://github.com/user-attachments/assets/5fbd2770-f135-4141-8a99-fb0be39f7e52" alt="game image" width="300">
 
-  - **Team Collaboration:** Developed as a team with [Trae Claar](https://github.com/tclaar), [Kaleb Krauter](https://github.com/calebkrauter), and [Devin Peevy](https://github.com/b1gd3vd0g). Coordinated with teammates on design decisions, debugging sessions, and sprint retrospectives, ensuring each release improved on the last.
-  - **Agile in Action:** Engaged in daily scrum updates and weekly sprint meetings to drive iterative development.
-  - **Repository Managagement:** Wrote thorough pull requests, responding to teammates' feedback and making requested changes. Left careful reviews of teammates' pull requests.
-  - **Creatativity:** Composed all music and created all artwork from scratch alongside my teammates.
+**The Challenge**: Create an engaging browser game with limited frameworks
+
+**My Approach**:
+- Explored fundamental game architecture principles without library abstractions
+- Practiced clean separation of concerns in vanilla JS
+- Balanced creative freedom with technical constraints
+- Found that cross-functional collaboration enhances both technical implementation and creative direction
+
+### [Wave Function Collapse Algorithm Visualizer](https://nathanhinthorne.github.io/Wave-Function-Collapse-p5js/)
+<img src="https://github.com/user-attachments/assets/069eb347-c3c6-4c80-9a3e-38b3ddf1e5f8" alt="demo image" width="300">
+
+**The Challenge**: Implement and visualize a complex algorithmic concept
+
+**My Thought Process**:
+- Deconstructed a complex algorithm into comprehensible components
+- Used visualization as both a debugging tool and learning aid
+- Applied concepts from seemingly unrelated fields (quantum mechanics and information theory) to computational problems
+- Discovered that choosing which constraints should exist in a system is a foundational aspect of algorithm design.
+
+### [Goose Browser Extension](https://chromewebstore.google.com/detail/eejfnccgoejgidifcgpphjjfodmiofkm?utm_source=item-share-cb)
+**The Challenge**: Create something lighthearted yet technically sound
+
+**My Approach**:
+- Explored how subtle interactions can create memorable user experiences
+- Balanced humor with non-intrusiveness
+- Used this project to understand browser extension architecture
+- Learned that sometimes the simplest ideas can resonate most widely (2,000+ users!)
 
 ### [Dungeon Adventure Game](https://github.com/NathanHinthorne/Fallen-Champions)
 | Title Screen | Intro | Gameplay |
 |---------|---------|---------|
 | ![Image 1](https://github.com/user-attachments/assets/aac65a27-702e-45f3-9b40-74b1c6966536) | ![Image 2](https://github.com/user-attachments/assets/42381e2e-7132-461c-abd4-a871cb9a1479) | ![Image 3](https://github.com/user-attachments/assets/ade5c023-0455-445b-899a-9f8e7bffe51b) |
-  - **Leadership:** Led a team of two in iteratively developing a dungeon adventure game according to the SDLC and agile methodologies.
-  - **Requirements & Specifications:** Co-authored a Software Requirements and Specifications (SRS) document for structured development.
-  - **Design:** Designed UML diagrams for clear architectural planning.
 
-### Book Library [API](https://github.com/NathanHinthorne/TCSS-460-Book-API) and [Frontend](https://github.com/NathanHinthorne/Book-Frontend)
-  - Collaborated with a team of three ([Jennifer Huynh](https://github.com/jennifer-huynh), [Jenna Timm](https://github.com/jennatimm), and [Virats Mann](https://github.com/Viratsmann)) in iteratively developing a RESTful API and frontend according to the SDLC.
-  -	Used Docker for containerization and PostgreSQL for database management.
-  -	Wrote endpoints with middleware for input validation and error handling, testing each endpoint in Postman.
-  - Implemented efficient API integration with custom hooks, along with an engaging, flexible UI that was ranked #1 in class.
+**The Challenge**: Lead development of a complete game with proper software engineering practices
 
-### [Wave Function Collapse Algorithm Visualizer](https://nathanhinthorne.github.io/Wave-Function-Collapse-p5js/)
-<img src="https://github.com/user-attachments/assets/069eb347-c3c6-4c80-9a3e-38b3ddf1e5f8" alt="demo image" width="300">
+**My Process**:
+- Translated abstract game concepts into concrete UML diagrams
+- Applied SDLC principles to game development
+- Found that formal documentation improves creative implementation
+- Discovered that even small teams benefit from structured development approaches
 
-  - Custom implemented the Wave Function Collapse Algorithm, which follows local constraints to collapse cells into tiles, borrowing concepts from Quantum Mechanics and Information Theory.
-  - Designed a web interface to visualize the algorithm in action and generate custom terrain.
+## 🏆 Academic Journey
+- **GPA: 3.92**
+- **2023-2025 Dean's List**
+- **AT&T Technology Certificate**:
+<img src="https://github.com/user-attachments/assets/4655a68a-793d-43e6-beca-c9da17a7be9d" alt="at-t-2024-technology-academy" width="200">
+- **Google 5-day Gen AI Intensive Certificate**
+<img src="" alt="google-ai-certificate" width="200">
 
-### [Goose Browser Extension](https://chromewebstore.google.com/detail/eejfnccgoejgidifcgpphjjfodmiofkm?utm_source=item-share-cb)
-  - Developed a browser extension featuring a pixelart goose that mildly annoys the user in funny ways.
-  - Gained **2,000+ users** in the Chrome Web Store.
+These achievements reflect my belief that theoretical understanding and practical application should go hand-in-hand.
 
+## 🚀 What I'm Learning Next
 
-## 🔌 Connect with me
+I'm currently exploring:
+- LLM API integration in domain-specific applications, including  synthetic data generation for CNN training.
+- Algorithm design and analysis on sites like LeetCode
+- Design patterns for more maintainable code
 
-**LinkedIn**: https://www.linkedin.com/in/nathan-hinthorne-6b58101b8/
+## 🔌 Let's Connect and Exchange Ideas
 
-**Email**: nathanrh856@gmail.com
+I believe that the best solutions come from diverse perspectives and collaborative thinking.
+
+<div align="left">
+  <a href="https://www.youtube.com/@NathanHinthorne" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="mailto:nathanrh856@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nathan-hinthorne-6b58101b8/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+---
+
+*"Code tells you how, comments tell you why, but repositories tell you who I am as a developer."*
