@@ -8,7 +8,7 @@ I believe that code is a form of creative expression—each project tells a stor
 
 ## 👨🏻‍💻 About me
 
-Recent graduate from the University of Washington with a B.S. in Computer Science and Systems and a minor in mathematics. I'm passionate about:
+Recent graduate from the University of Washington with a B.S. in Computer Science and Systems and a minor in Mathematics. I'm passionate about:
 
 - **AI/ML**: Exploring how machines can learn patterns and make predictions
 - **Full-Stack Development**: Building bridges between users and data through intuitive interfaces
