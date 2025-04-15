@@ -97,16 +97,6 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 - Found that formal documentation improves creative implementation
 - Discovered that even small teams benefit from structured development approaches
 
-## 🏆 Academic Journey
-- **GPA: 3.92**
-- **2023-2025 Dean's List**
-- **AT&T Technology Certificate**:
-<img src="https://github.com/user-attachments/assets/4655a68a-793d-43e6-beca-c9da17a7be9d" alt="at-t-2024-technology-academy" width="200">
-- **Google 5-day Gen AI Intensive Certificate**
-<img src="" alt="google-ai-certificate" width="200">
-
-These achievements reflect my belief that theoretical understanding and practical application should go hand-in-hand.
-
 ## 🚀 What I'm Learning Next
 
 I'm currently exploring:
