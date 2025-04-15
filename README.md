@@ -59,9 +59,9 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 **The Challenge**: Create an engaging browser game with limited frameworks
 
 **My Approach**:
-- Explored fundamental game architecture principles without library abstractions
-- Practiced clean separation of concerns in vanilla JS
-- Balanced creative freedom with technical constraints
+-	Collaborated with a team of three to develop a 2D platformer game with action/adventure elements using vanilla JavaScript.
+-	Implemented physics, advanced player movement, unique projectile behaviors, and particle effects.
+-	Designed completely custom music and artwork with teammates.
 - Found that cross-functional collaboration enhances both technical implementation and creative direction
 
 ### [Wave Function Collapse Algorithm Visualizer](https://nathanhinthorne.github.io/Wave-Function-Collapse-p5js/)
@@ -69,13 +69,12 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 
 **The Challenge**: Implement and visualize a complex algorithmic concept
 
-**My Thought Process**:
+**My Approach**:
 - Deconstructed a complex algorithm into comprehensible components
-- Used visualization as both a debugging tool and learning aid
-- Applied concepts from seemingly unrelated fields (quantum mechanics and information theory) to computational problems
+- Conducted performance analysis on different implementations of the algorithm using Python, improving the efficiency and effectiveness of the terrain generation.
 - Discovered that choosing which constraints should exist in a system is a foundational aspect of algorithm design.
 
-### [Goose Browser Extension](https://chromewebstore.google.com/detail/eejfnccgoejgidifcgpphjjfodmiofkm?utm_source=item-share-cb)
+### [Goose Browser Extension](https://chromewebstore.google.com/detail/annoying-goose/eejfnccgoejgidifcgpphjjfodmiofkm)
 **The Challenge**: Create something lighthearted yet technically sound
 
 **My Approach**:
