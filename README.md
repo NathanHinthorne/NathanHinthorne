@@ -51,35 +51,6 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 - Firebase, Cloud Computing, VSCode, IntelliJ, Postman, Google AI Studio
   - *Tools that enhance development workflow and enable scalable solutions*
 
-## 💼 Professional Journey & Learning
-
-### Fullstack Software Developer Intern | Global Radio Outreach
-📅 Mar 2025 - Preset
-- **Fullstack Application Development**: Build and enhance applications for the Outreach CMS, Digital Library, and app using modern frontend tools (Next.js, React.js, TailwindCSS, Framer Motion, and custom React hooks) alongside backend frameworks (Node.js, Nest.js, and MongoDB).
-
-- **Collaborative Project Execution**: Work closely within a small, cross-functional team, participating in project planning, milestone tracking, and agile development cycles to ensure timely delivery.
-
-- **Infrastructure Management**: Configure and maintain technical infrastructure through containerization (Docker), orchestration (Kubernetes), and server management (NGINX), while integrating multilingual configurations and analytics tools.
-
-- **Quality Assurance & Problem Solving**: Engage in thorough testing and debugging to analyze and resolve technical challenges, enhancing performance, scalability, and reliability of applications.
-
-### Research Assistant | SmartCity Project, University of Washington Tacoma
-📅 Dec 2024 - Mar 2025
-
-My work here reflects my interest in applying AI to practical urban challenges:
-- Explored the balance between computational efficiency and accuracy in road crack detection models
-- Discovered how combining different feature extraction methods could enhance segmentation results
-- Learned that effective research communication is just as important as technical implementation
-
-### Software Developer Intern | Dimension XR
-📅 June 2023 - Oct 2023
-🔗 [Portfolio Details](https://sites.google.com/view/nathan-hinthorne)
-
-This experience taught me about:
-- Bridging educational content with cutting-edge technology through VR
-- Managing complexity in interactive systems
-- The importance of user-centered design in immersive experiences
-
 ## 🔬 Projects & Thought Processes
 
 ### [Vanilla JS Web Game](https://github.com/GoodBadChad/good-bad-chad-br)
