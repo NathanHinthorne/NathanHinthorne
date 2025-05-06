@@ -104,6 +104,18 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 - Found that formal documentation improves creative implementation
 - Discovered that even small teams benefit from structured development approaches
 
+### [Story Bot - Discord Collaborative Storytelling](https://github.com/NathanHinthorne/discord-storybot)
+
+**The Challenge**: Create an engaging community-building tool that encourages creative interaction to serve an online community that was lacking in this regard.
+
+**My Approach**:
+- Developed a Discord bot that facilitates collaborative storytelling using Python and discord.py
+- Integrated Gemini API to generate AI-assisted plot twists and story summaries
+- Implemented cloud-based persistence with Firebase Firestore to maintain story continuity
+- Designed a system for story export and sharing via Google Docs API
+- Learned that acting immediately to fill in gaps leads to practical, need-driven products.
+- Successfully deployed to cloud infrastructure with 99.9% uptime, serving 20+ Discord communities
+
 ## 🚀 What I'm Learning Next
 
 I'm currently exploring:
