@@ -104,7 +104,7 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 - Found that formal documentation improves creative implementation
 - Discovered that even small teams benefit from structured development approaches
 
-### [Story Bot - Discord Collaborative Storytelling](https://github.com/NathanHinthorne/discord-storybot)
+### [Discord Story Bot](https://github.com/NathanHinthorne/discord-storybot)
 
 **The Challenge**: Create an engaging community-building tool that encourages creative interaction to serve an online community that was lacking in this regard.
 
