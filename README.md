@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nathan Hinthorne
+# I'm Nathan Hinthorne
 
 ## 💭 My Philosophy
 
