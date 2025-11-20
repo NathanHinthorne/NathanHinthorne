@@ -89,7 +89,7 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 - Explored how subtle interactions can create memorable user experiences
 - Balanced humor with non-intrusiveness
 - Used this project to understand browser extension architecture
-- Learned that sometimes the simplest ideas can resonate most widely (2,000+ users!)
+- Learned that sometimes the simplest ideas can resonate most widely (4,000+ users!)
 
 ### [Dungeon Adventure Game](https://github.com/NathanHinthorne/Fallen-Champions)
 | Title Screen | Intro | Gameplay |
