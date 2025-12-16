@@ -2,7 +2,7 @@
 
 ## Intro 
 
-Below you can find some of my featured repositories. Each one was a labor of love, whether it was a personal project or sparked by an assignment at my university :) They're each demonstrations of challenges encountered, solutions designed, and lessons learned along the way.
+Below you can find some of my featured repositories. Each one was a labor of love, whether it was a personal project or sparked by an assignment at my university. They're demonstrations of challenges encountered, solutions designed, and lessons learned along the way.
 
 > "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra, pioneer in computer science
 
