@@ -1,8 +1,8 @@
 # I'm Nathan Hinthorne
 
-## 💭 My Philosophy
+## Intro 
 
-I believe that code is a form of creative expression—each project tells a story about problem-solving approaches and thought processes. My repositories aren't just collections of code; they're narratives of challenges encountered, solutions designed, and lessons learned along the way.
+Below you can find some of my featured repositories. Each one was a labor of love, whether it was a personal project or sparked by an assignment at my university :) They're each demonstrations of challenges encountered, solutions designed, and lessons learned along the way.
 
 > "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra, pioneer in computer science
 
@@ -42,7 +42,7 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
   - *Perfect for translating creative vision into interactive experiences*
 - **Java**: JUnit, Swing, JavaFX
   - *Appreciate its structured, type-safe approach to problem-solving*
-- **SQL**: PostgreSQL, SQLite
+- **Databases**: PostgreSQL, SQLite, MongoDB
   - *The foundation of thoughtful data modeling*
 - **Other Languages**: C, R, Erlang
   - *Each offering unique approaches to programming style and problem-solving*
