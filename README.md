@@ -66,7 +66,7 @@ My current focus is [Birding Pal](https://github.com/NathanHinthorne/bird-identi
 -	Designed completely custom music and artwork with teammates.
 - Found that cross-functional collaboration enhances both technical implementation and creative direction
 
-### [Wave Function Collapse Algorithm Visualizer](https://nathanhinthorne.github.io/Wave-Function-Collapse-p5js/)
+### [Wave Function Collapse Algorithm Visualizer](https://wfc-react-website.vercel.app/)
 <kbd>
   <img src="https://github.com/user-attachments/assets/069eb347-c3c6-4c80-9a3e-38b3ddf1e5f8" alt="demo image" width="300">
 </kbd>
